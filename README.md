@@ -53,7 +53,7 @@ Y en este mismo repositorio tienes el archivo de Python [test_Fernet.py](https:/
 cómo generar una clave para el Fernet y usarla para cifrar un mensaje y guardarlo en un archivo llamado message.enc. 
 
 ¿Eres capaz de revertir el cifrado del programa test_fernet.py para descifrar el mesaje cifrado que se encuentra en el archivo 
-[mensaje_100.enc](https://github.com/aigonzal/talks_awareness/blob/main/message_100.enc)? 
+[mensaje_100.enc](https://github.com/aigonzal/talks_awareness/blob/main/message_100_VillaGrinion.enc)? 
 
 
 Nota 4.1: Podría no ser así... pero no somos tan malign@s, esta vez hemos usado para cifrar el mensaje la misma pwd y el mismo salt que se utilizan en test_Fernet.py... ya el mensaje no, claro :X ese es el que tienes que averiguar
